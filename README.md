@@ -1,2 +1,5 @@
 # Tetris
-It's a Tetris game using canvas only.
+오직 캔버스로만 만든 테트리스입니다.   
+    
+[여기서](https://tetris.msub.kr) 체험 가능하며 간단하게 만들려고 했는데    
+주변 친구들의 반응이 좋아서 멀티까지 구현하였습니다
